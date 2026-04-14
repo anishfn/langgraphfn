@@ -1,7 +1,3 @@
-Here’s a clean, minimal README with a proper tree structure and no emojis:
-
----
-
 # LangGraph Workflows (Mistral AI)
 
 A collection of LangGraph workflows powered by Mistral AI, demonstrating different execution patterns for building LLM-based systems.
