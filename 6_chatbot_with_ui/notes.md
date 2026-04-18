@@ -1,7 +1,3 @@
-Here are clean, detailed **Markdown notes** for your code, with a focus on understanding every feature and design decision.
-
----
-
 # Streamlit + LangGraph Chatbot — Detailed Notes
 
 ## 1. Overview
@@ -534,10 +530,3 @@ Leads to wrong roles or crashes
 * Add search across conversations
 * Add multi-user authentication
 
----
-
-If you want, I can next:
-
-* Turn this into production-grade architecture
-* Add memory search or vector DB
-* Or explain the backend (`chatbot`) internals in the same depth
