@@ -1,3 +1,5 @@
+# streaming text chat user interface
+
 import streamlit as st
 from backend import chatbot
 from langchain_core.messages import HumanMessage
